@@ -44,6 +44,12 @@
   }
 }
 
+.bg-image {
+  background-image: url('/images/Header-llustration-desktop.svg') no-repeat;
+  background-size: cover;
+   height: 100vh;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-font-sans-serif);
@@ -10835,3 +10841,4 @@ textarea.form-control-lg {
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
+
